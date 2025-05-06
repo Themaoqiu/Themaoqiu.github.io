@@ -55,7 +55,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 从 VuePress 构建输出目录上传
-          path: '.docs/vuepress/dist'
+          path: 'docs/.vuepress/dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
