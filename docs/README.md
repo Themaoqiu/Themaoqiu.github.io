@@ -29,9 +29,9 @@ features:
     details: Some personal small open - source projects
     link: /open/
   - title: Blogs
-  - icon: fluent-color:clipboard-text-edit-20
-  - details: Some daily life...(TODO)
-  - link: /article/
+    icon: fluent-color:clipboard-text-edit-20
+    details: Some daily life...(TODO)
+    link: /article/
   - title: About me
     icon: fluent-color:clipboard-text-edit-20 # 图标
     details: learn more about me

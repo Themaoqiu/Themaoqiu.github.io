@@ -15,7 +15,7 @@ export default defineUserConfig({
   theme: hopeTheme({
     hostname: "https://themaoqiu.github.io",
     author: {
-      name: "Xingjian Wang",
+      name: "Themaoqiu",
     },
     iconAssets: "iconify",
     logo: "/logo.jpg", // 需要放置在 .vuepress/public 目录下
