@@ -1,0 +1,57 @@
+# .github/workflows/deploy.yml
+name: Deploy VuePress Site to GitHub Pages
+
+on:
+  # 在针对 `main` 分支的 push 事件时触发
+  push:
+    branches: [main] # 或者你的主开发分支名，如 master
+  # 允许你手动在 Actions 页签中触发工作流
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 的权限，允许部署到 GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 只允许同时运行一个部署，会取消之前未完成的运行
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 如果需要 git last-updated 时间，则必须设置
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18 # 使用你项目兼容的 Node.js 版本
+          cache: 'npm' # 或 'yarn', 'pnpm'
+
+      - name: Install Dependencies
+        run: npm install # 或 yarn install, pnpm install
+
+      - name: Build VuePress Site
+        run: npm run docs:build # 或 yarn docs:build, pnpm docs:build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 从 VuePress 构建输出目录上传
+          path: '.vuepress/dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
