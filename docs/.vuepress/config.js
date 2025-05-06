@@ -18,7 +18,7 @@ export default defineUserConfig({
       name: "Xingjian Wang",
     },
     iconAssets: "iconify",
-    logo: "/logo.svg", // 需要放置在 .vuepress/public 目录下
+    logo: "/logo.jpg", // 需要放置在 .vuepress/public 目录下
 
     navbar: [
       { text: "Main", link: "/", icon: "fluent-color:home-48" },

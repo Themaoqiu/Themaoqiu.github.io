@@ -28,10 +28,15 @@ features:
     icon: fluent-color:code-16 # 图标
     details: Some personal small open - source projects
     link: /open/
+  - title: Blogs
+  - icon: fluent-color:clipboard-text-edit-20
+  - details: Some daily life...(TODO)
+  - link: /article/
   - title: About me
     icon: fluent-color:clipboard-text-edit-20 # 图标
     details: learn more about me
     link: /article/
+  
 
 # 页脚版权信息 (如果希望主页不同)
 # copyright: false # 如果不想在主页显示版权
@@ -39,16 +44,16 @@ features:
 
 ---
 
-## Themaoqiu's self introduction 
+## Themaoqiu's Self Introduction 🌟
 
-### abstract
-Hello, I'm Xingjian Wang  
-I am now an undergraduate student majoring in Information Management and Information System at Shanghai University of Electric Power.  
-I am actively engaged in self-study and practical activities related to my field of interest. Although I haven't achieved some of the advanced academic attainments yet, I am striving to improve myself.  
-My research interest includes (but is not limited to) *Deep Learning Visual Language Model and Data-centric AI*.
+### Abstract ✨  
+Hello, I'm Xingjian Wang 👋  
+I am now an undergraduate student majoring in **Information Management and Information System** at **Shanghai University of Electric Power** 🎓.  
+I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself every day 💪.  
+My research interests include (but are not limited to) *Deep Learning Visual Language Model and Data-centric AI* 🤖🔍.  
 
-- **Email**: themaoqiu@gmail.com  
-- **Github**: [Themaoqiu](https://github.com/Themaoqiu)  
-- **Relevant Experience**:  
-    - **vlms**: Pre-submitted paper to NeurIPS: FG-LongVideoBench  
-    - **NutriRAG**: A Simple Agent for Nutritional and Health Recommendations Based on TinyRAG  
+- 📧 **Email**: themaoqiu@gmail.com  
+- 💻 **Github**: [Themaoqiu](https://github.com/Themaoqiu)  
+- 🛠️ **Relevant Experience**:  
+  - **vlms**: Pre-submitted paper to NeurIPS: *FG-LongVideoBench* 📜  
+  - **NutriRAG**: A Simple Agent for Nutritional and Health Recommendations Based on TinyRAG 🍎⚕️  

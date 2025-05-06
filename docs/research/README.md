@@ -2,4 +2,4 @@
 title: Research
 ---
 # Research Section
-Welcome to my research.
+This section will introduce some research articles which I have participated in.

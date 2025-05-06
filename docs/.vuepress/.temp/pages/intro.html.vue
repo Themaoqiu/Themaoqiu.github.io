@@ -1,13 +1,12 @@
-<template><div><h1 id="关于我" tabindex="-1"><a class="header-anchor" href="#关于我"><span>关于我</span></a></h1>
-<p>这里是你的详细个人介绍。</p>
-<p>你可以写下你的：</p>
+<template><div><h1 id="more-about-me" tabindex="-1"><a class="header-anchor" href="#more-about-me"><span>More about me</span></a></h1>
+<blockquote>
+<p>虽然主页好像都有了</p>
+</blockquote>
 <ul>
-<li>教育背景</li>
-<li>工作经历</li>
-<li>技术栈</li>
-<li>兴趣爱好</li>
-<li>联系方式 (虽然博客信息里已有)</li>
-<li>等等...</li>
+<li>Nickname: Themaoqiu</li>
+<li>Education: BSc in Information Management and Information System, Shanghai University of Electric Power</li>
+<li>Email: themaoqiu@gmail.com</li>
+<li>Github: <a href="https://github.com/Themaoqiu" target="_blank" rel="noopener noreferrer">Themaoqiu</a></li>
 </ul>
 </div></template>
 
