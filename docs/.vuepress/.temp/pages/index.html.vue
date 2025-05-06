@@ -1,9 +1,18 @@
-<template><div><h2 id="这里是-frontmatter-下方的内容" tabindex="-1"><a class="header-anchor" href="#这里是-frontmatter-下方的内容"><span>这里是 Frontmatter 下方的内容</span></a></h2>
-<p>这部分内容会显示在 Features 区块的下方。你可以在这里添加更多的 Markdown 内容，例如：</p>
+<template><div><h2 id="themaoqiu-s-self-introduction" tabindex="-1"><a class="header-anchor" href="#themaoqiu-s-self-introduction"><span>Themaoqiu's self introduction</span></a></h2>
+<h3 id="abstract" tabindex="-1"><a class="header-anchor" href="#abstract"><span>abstract</span></a></h3>
+<p>Hello, I'm Xingjian Wang<br>
+I am now an undergraduate student majoring in Information Management and Information System at Shanghai University of Electric Power.<br>
+I am actively engaged in self-study and practical activities related to my field of interest. Although I haven't achieved some of the advanced academic attainments yet, I am striving to improve myself.<br>
+My research interest includes (but is not limited to) <em>Deep Learning Visual Language Model and Data-centric AI</em>.</p>
 <ul>
-<li>最近的更新</li>
-<li>一些想法</li>
-<li>或者其他你想展示的内容</li>
+<li><strong>Email</strong>: themaoqiu@gmail.com</li>
+<li><strong>Github</strong>: <a href="https://github.com/Themaoqiu" target="_blank" rel="noopener noreferrer">Themaoqiu</a></li>
+<li><strong>Relevant Experience</strong>:
+<ul>
+<li><strong>vlms</strong>: Pre-submitted paper to NeurIPS: FG-LongVideoBench</li>
+<li><strong>NutriRAG</strong>: A Simple Agent for Nutritional and Health Recommendations Based on TinyRAG</li>
+</ul>
+</li>
 </ul>
 </div></template>
 

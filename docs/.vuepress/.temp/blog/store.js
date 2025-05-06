@@ -1,1 +1,1 @@
-export const store = JSON.parse("[\"/intro.html\"]");
+export const store = JSON.parse("[\"/article/\"]");
