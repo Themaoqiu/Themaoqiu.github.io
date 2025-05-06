@@ -31,12 +31,6 @@ jobs:
         with:
           fetch-depth: 0 # 如果需要 git last-updated 时间，则必须设置
 
-      - name: Clean install dependencies
-        run: |
-            # 移除 node_modules 目录和 package-lock.json 文件
-            rm -rf node_modules
-            rm -f package-lock.json # 或者 yarn.lock, pnpm-lock.yaml
-            
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -47,6 +41,9 @@ jobs:
         run: |
             npm install
             # npm install vuepress --save-dev
+            
+      - name: Fix VuePress Permissions
+        run: chmod +x node_modules/.bin/vuepress
 
       - name: Build VuePress Site
         run: npm run docs:build # 或 yarn docs:build, pnpm docs:build
