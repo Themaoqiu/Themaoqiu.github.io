@@ -8,6 +8,7 @@ export default defineUserConfig({
   lang: "zh-CN", // 语言
   title: "Themaoqiu", // 网站标题
   description: "Themaoqiu的个人页面", // 网站描述
+  base: "/",
   bundler: viteBundler(),
   // 主题配置
   theme: hopeTheme({
