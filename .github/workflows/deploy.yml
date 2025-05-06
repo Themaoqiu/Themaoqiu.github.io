@@ -38,7 +38,9 @@ jobs:
           cache: 'npm' # 或 'yarn', 'pnpm'
 
       - name: Install Dependencies
-        run: npm install # 或 yarn install, pnpm install
+        run: |
+            npm install
+            npm install vuepress --save-dev
 
       - name: Build VuePress Site
         run: npm run docs:build # 或 yarn docs:build, pnpm docs:build
