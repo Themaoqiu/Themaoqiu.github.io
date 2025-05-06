@@ -33,11 +33,10 @@ features:
     details: Some daily life...(TODO)
     link: /article/
   - title: About me
-    icon: fluent-color:clipboard-text-edit-20 # 图标
+    icon: fluent-color:guest-32 # 图标
     details: learn more about me
     link: /article/
   
-
 # 页脚版权信息 (如果希望主页不同)
 # copyright: false # 如果不想在主页显示版权
 # footer: Custom Homepage Footer # 自定义主页页脚
