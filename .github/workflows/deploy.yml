@@ -41,7 +41,7 @@ jobs:
         run: |
             npm install
             # npm install vuepress --save-dev
-            
+
       - name: Fix VuePress Permissions
         run: chmod +x node_modules/.bin/vuepress
 
@@ -55,7 +55,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 从 VuePress 构建输出目录上传
-          path: '.vuepress/dist'
+          path: '.docs/vuepress/dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
