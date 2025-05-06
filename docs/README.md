@@ -48,9 +48,10 @@ features:
 
 ### Abstract ✨  
 Hello, I'm Xingjian Wang 👋  
-I am now an undergraduate student majoring in **Information Management and Information System** at **Shanghai University of Electric Power** 🎓.  
-I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself every day 💪.  
-My research interests include (but are not limited to) *Deep Learning Visual Language Model and Data-centric AI* 🤖🔍.  
+🎓 I am now an undergraduate student majoring in **Information Management and Information System** at **Shanghai University of Electric Power** .  
+💪 I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself every day .  
+🔍 My research interests include (but are not limited to) *Deep Learning Visual Language Model and Data-centric AI* 🤖.  
+👯 I’m looking to discuss AI research.
 
 - 📧 **Email**: themaoqiu@gmail.com  
 - 💻 **Github**: [Themaoqiu](https://github.com/Themaoqiu)  
