@@ -25,7 +25,6 @@
 <p>💪 I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself every day.</p>
 <p>🔍 My research interests include (but are not limited to) <em>Deep Learning Visual Language Model and Data-centric AI</em> 🤖.</p>
 <p>👯 I'm looking to discuss AI research.</p>
-<hr>
 <h2 id="😄-research-interests" tabindex="-1"><a class="header-anchor" href="#😄-research-interests"><span>😄 Research Interests</span></a></h2>
 <p>My primary research interests lie at the intersection of:</p>
 <ul>
@@ -34,12 +33,10 @@
 <li><strong>Data-centric AI</strong></li>
 <li>Deep Learning</li>
 </ul>
-<hr>
 <h2 id="📢-news" tabindex="-1"><a class="header-anchor" href="#📢-news"><span>📢 News</span></a></h2>
 <ul>
 <li><strong>[05/06/2025]</strong> set this page</li>
 </ul>
-<hr>
 <h2 id="📝-research-projects" tabindex="-1"><a class="header-anchor" href="#📝-research-projects"><span>📝 Research / Projects</span></a></h2>
 <p style="color: gray;text-align: left">(* denotes equal contribution)</p>
 <ul>
@@ -57,12 +54,10 @@
 </ul>
 </li>
 </ul>
-<hr>
 <h2 id="🏅-awards-honors" tabindex="-1"><a class="header-anchor" href="#🏅-awards-honors"><span>🏅 Awards &amp; Honors</span></a></h2>
 <ul>
 <li>null</li>
 </ul>
-<hr>
 <h2 id="🛠️-skills" tabindex="-1"><a class="header-anchor" href="#🛠️-skills"><span>🛠️ Skills</span></a></h2>
 <ul>
 <li><strong>Programming:</strong> Python(Pytorch, transformers), Java, SQL</li>
@@ -70,15 +65,8 @@
 <li><strong>Languages:</strong> Chinese (Native), English (Fluent)</li>
 </ul>
 <h2 id="📫-contact" tabindex="-1"><a class="header-anchor" href="#📫-contact"><span>📫 Contact</span></a></h2>
-<ul>
-<li><strong>Email</strong>:
-<ul>
-<li>themaoqiu@gmail.com</li>
-<li>2873133716@qq.com</li>
-</ul>
-</main>
-</li>
-</ul>
+<p><strong>Email</strong>: themaoqiu@gmail.com <span style="color: #3eaf7c;">·</span> 2873133716@qq.com</p>
+  </main>
 </div></div></template>
 
 

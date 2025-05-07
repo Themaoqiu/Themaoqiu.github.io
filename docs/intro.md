@@ -48,7 +48,6 @@ Hello, I'm Xingjian Wang!
 
 👯 I'm looking to discuss AI research.
 
----
 
 ## 😄 Research Interests
 
@@ -58,13 +57,11 @@ My primary research interests lie at the intersection of:
 -   **Data-centric AI**
 -   Deep Learning
 
----
 
 ## 📢 News
 
 -   **[05/06/2025]** set this page
 
----
 
 ## 📝 Research / Projects
 <p style="color: gray;text-align: left">(* denotes equal contribution)</p>
@@ -77,23 +74,20 @@ My primary research interests lie at the intersection of:
   - *A Simple Agent for Nutritional and Health Recommendations Based on TinyRAG* 🍎⚕️
   -   [[Github](https://github.com/Themaoqiu/NRAG)]
 
----
 
 ## 🏅 Awards & Honors
 
 -   null
 
----
 
 ## 🛠️ Skills
 
--   **Programming:** Python(Pytorch, transformers), Java, SQL
--   **Tools:** Git, Overleaf, Linux
--   **Languages:** Chinese (Native), English (Fluent)
+- **Programming:** Python(Pytorch, transformers), Java, SQL
+- **Tools:** Git, Overleaf, Linux
+- **Languages:** Chinese (Native), English (Fluent)
 
 ## 📫 Contact
-- **Email**: 
-  - themaoqiu@gmail.com
-  - 2873133716@qq.com
+**Email**: themaoqiu@gmail.com <span style="color: #3eaf7c;">·</span> 2873133716@qq.com
+  
   </main>
 </div>
