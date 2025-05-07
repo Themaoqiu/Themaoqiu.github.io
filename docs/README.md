@@ -61,6 +61,8 @@ My primary research interests lie at the intersection of:
 -   Deep Learning
 -   
 ### 📫 Contact
-    Email: themaoqiu@gmail.com and 2873133716@qq.com
+- **Email**: 
+  - themaoqiu@gmail.com
+  - 2873133716@qq.com
 
 [Read More →](/intro.md) 

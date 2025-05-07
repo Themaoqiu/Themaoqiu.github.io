@@ -46,7 +46,7 @@ Hello, I'm Xingjian Wang!
 
 🔍 My research interests include (but are not limited to) *Deep Learning Visual Language Model and Data-centric AI* 🤖.
 
-👯 I’m looking to discuss AI research.
+👯 I'm looking to discuss AI research.
 
 ---
 
@@ -67,6 +67,7 @@ My primary research interests lie at the intersection of:
 ---
 
 ## 📝 Research / Projects
+<p style="color: gray;text-align: left">(* denotes equal contribution)</p>
 
 - FG-LongVideoBench: 
   - *Pre-submitted paper to NeurIPS*
@@ -91,6 +92,8 @@ My primary research interests lie at the intersection of:
 -   **Languages:** Chinese (Native), English (Fluent)
 
 ## 📫 Contact
-    Email: themaoqiu@gmail.com and 2873133716@qq.com
+- **Email**: 
+  - themaoqiu@gmail.com
+  - 2873133716@qq.com
   </main>
 </div>
