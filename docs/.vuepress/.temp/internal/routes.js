@@ -1,7 +1,7 @@
 export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
-  ["/intro.html", { loader: () => import(/* webpackChunkName: "intro.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/intro.html.js"), meta: {"title":"About me","icon":"circle-info"} }],
+  ["/intro.html", { loader: () => import(/* webpackChunkName: "intro.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/intro.html.js"), meta: {"title":"About Me","icon":"mdi:account-circle"} }],
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
   ["/article/", { loader: () => import(/* webpackChunkName: "article_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/article/index.html.js"), meta: {"title":"文章","index":false} }],
   ["/open/NutriRAG.html", { loader: () => import(/* webpackChunkName: "open_NutriRAG.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/open/NutriRAG.html.js"), meta: {"title":"NutriRAG 🍏🔍"} }],

@@ -35,7 +35,7 @@ features:
   - title: About me
     icon: fluent-color:guest-32 # 图标
     details: learn more about me
-    link: /article/
+    link: /intro.md
   
 # 页脚版权信息 (如果希望主页不同)
 # copyright: false # 如果不想在主页显示版权
@@ -44,16 +44,23 @@ features:
 ---
 
 ## Themaoqiu's Self Introduction 🌟
-
+--- 
 ### Abstract ✨  
 Hello, I'm Xingjian Wang 👋  
 🎓 I am now an undergraduate student majoring in **Information Management and Information System** at **Shanghai University of Electric Power** .  
-💪 I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself every day .  
+💪 I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself.  
 🔍 My research interests include (but are not limited to) *Deep Learning Visual Language Model and Data-centric AI* 🤖.  
 👯 I’m looking to discuss AI research.
 
-- 📧 **Email**: themaoqiu@gmail.com  
-- 💻 **Github**: [Themaoqiu](https://github.com/Themaoqiu)  
-- 🛠️ **Relevant Experience**:  
-  - **vlms**: Pre-submitted paper to NeurIPS: *FG-LongVideoBench* 📜  
-  - **NutriRAG**: A Simple Agent for Nutritional and Health Recommendations Based on TinyRAG 🍎⚕️  
+### 😄 Research Interests
+
+My primary research interests lie at the intersection of:
+-   **Large Language Models (LLMs)**
+-   **Multimodal Learning**
+-   **Data-centric AI**
+-   Deep Learning
+-   
+### 📫 Contact
+    Email: themaoqiu@gmail.com and 2873133716@qq.com
+
+[Read More →](/intro.md) 
