@@ -24,7 +24,7 @@
 <p>🎓 I am an undergraduate student majoring in <strong>Information Management and Information Systems</strong> at <strong>Shanghai University of Electric Power</strong>.</p>
 <p>💪 I am actively engaged in self-study and practical activities related to my field of interest 🚀. Although I haven't achieved some advanced academic attainments yet, I am striving to improve myself every day.</p>
 <p>🔍 My research interests include (but are not limited to) <em>Deep Learning Visual Language Model and Data-centric AI</em> 🤖.</p>
-<p>👯 I’m looking to discuss AI research.</p>
+<p>👯 I'm looking to discuss AI research.</p>
 <hr>
 <h2 id="😄-research-interests" tabindex="-1"><a class="header-anchor" href="#😄-research-interests"><span>😄 Research Interests</span></a></h2>
 <p>My primary research interests lie at the intersection of:</p>
@@ -41,6 +41,7 @@
 </ul>
 <hr>
 <h2 id="📝-research-projects" tabindex="-1"><a class="header-anchor" href="#📝-research-projects"><span>📝 Research / Projects</span></a></h2>
+<p style="color: gray;text-align: left">(* denotes equal contribution)</p>
 <ul>
 <li>
 <p>FG-LongVideoBench:</p>
@@ -69,9 +70,15 @@
 <li><strong>Languages:</strong> Chinese (Native), English (Fluent)</li>
 </ul>
 <h2 id="📫-contact" tabindex="-1"><a class="header-anchor" href="#📫-contact"><span>📫 Contact</span></a></h2>
-<pre><code>Email: themaoqiu@gmail.com and 2873133716@qq.com
-</code></pre>
-  </main>
+<ul>
+<li><strong>Email</strong>:
+<ul>
+<li>themaoqiu@gmail.com</li>
+<li>2873133716@qq.com</li>
+</ul>
+</main>
+</li>
+</ul>
 </div></div></template>
 
 

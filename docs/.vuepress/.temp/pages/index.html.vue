@@ -13,11 +13,16 @@
 <li><strong>Multimodal Learning</strong></li>
 <li><strong>Data-centric AI</strong></li>
 <li>Deep Learning</li>
-<li></li>
 </ul>
 <h3 id="📫-contact" tabindex="-1"><a class="header-anchor" href="#📫-contact"><span>📫 Contact</span></a></h3>
-<pre><code>Email: themaoqiu@gmail.com and 2873133716@qq.com
-</code></pre>
+<ul>
+<li><strong>Email</strong>:
+<ul>
+<li>themaoqiu@gmail.com</li>
+<li>2873133716@qq.com</li>
+</ul>
+</li>
+</ul>
 <p><RouteLink to="/intro.html">Read More →</RouteLink></p>
 </div></template>
 

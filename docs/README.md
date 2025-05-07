@@ -59,7 +59,7 @@ My primary research interests lie at the intersection of:
 -   **Multimodal Learning**
 -   **Data-centric AI**
 -   Deep Learning
--   
+
 ### 📫 Contact
 - **Email**: 
   - themaoqiu@gmail.com
