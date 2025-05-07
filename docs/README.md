@@ -22,11 +22,11 @@ tagline: Undergrad student, Management Science and Engineering, Shanghai Univers
 features:
   - title: Research
     icon: fluent-color:book-open-16 # 图标 (参考 Theme Hope 图标文档)
-    details: Deep Learning Visual Language Model and Data-centric AI
+    details: Deep Learning, Visual Language Model and Data-centric AI
     link: /research/
   - title: Open source
     icon: fluent-color:code-16 # 图标
-    details: Some personal small open - source projects
+    details: Some personal small open source projects
     link: /open/
   - title: Blogs
     icon: fluent-color:clipboard-text-edit-20
@@ -34,7 +34,7 @@ features:
     link: /article/
   - title: About me
     icon: fluent-color:guest-32 # 图标
-    details: learn more about me
+    details: My academic homepage
     link: /intro.md
   
 # 页脚版权信息 (如果希望主页不同)
