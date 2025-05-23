@@ -13,7 +13,7 @@
       <a href="https://github.com/Themaoqiu" target="_blank" rel="noopener noreferrer" class="profile-link-item">
         <span class="iconify" data-icon="mdi:github" data-inline="false"></span> GitHub
       </a>
-      <a href="YOUR_GOOGLE_SCHOLAR_LINK" target="_blank" rel="noopener noreferrer" class="profile-link-item">
+      <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=xJF5Uc4AAAAJ" target="_blank" rel="noopener noreferrer" class="profile-link-item">
         <span class="iconify" data-icon="academicons:google-scholar" data-inline="false"></span> Google Scholar
       </a>
       </div>

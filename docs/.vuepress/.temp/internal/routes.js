@@ -6,6 +6,7 @@ export const routes = Object.fromEntries([
   ["/article/", { loader: () => import(/* webpackChunkName: "article_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/article/index.html.js"), meta: {"title":"文章","index":false} }],
   ["/open/NutriRAG.html", { loader: () => import(/* webpackChunkName: "open_NutriRAG.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/open/NutriRAG.html.js"), meta: {"title":"NutriRAG 🍏🔍"} }],
   ["/open/", { loader: () => import(/* webpackChunkName: "open_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/open/index.html.js"), meta: {"title":"Open-source"} }],
+  ["/research/KORGym.html", { loader: () => import(/* webpackChunkName: "research_KORGym.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/research/KORGym.html.js"), meta: {"title":"KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation"} }],
   ["/research/", { loader: () => import(/* webpackChunkName: "research_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/research/index.html.js"), meta: {"title":"Research"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
   ["/category/", { loader: () => import(/* webpackChunkName: "category_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/category/index.html.js"), meta: {"title":"分类","index":false} }],
@@ -13,6 +14,7 @@ export const routes = Object.fromEntries([
   ["/star/", { loader: () => import(/* webpackChunkName: "star_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/star/index.html.js"), meta: {"title":"星标","index":false} }],
   ["/timeline/", { loader: () => import(/* webpackChunkName: "timeline_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/timeline/index.html.js"), meta: {"title":"时间轴","index":false} }],
   ["/article/", { loader: () => import(/* webpackChunkName: "article_index.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/article/index.html.js"), meta: {"title":"文章","index":false} }],
+  ["/open/MIS.html", { loader: () => import(/* webpackChunkName: "open_MIS.html" */"D:/software/VScode/web/themaoqiu.github.io/docs/.vuepress/.temp/pages/open/MIS.html.js"), meta: {"title":"🏭 企业库存管理信息系统 (Enterprise Inventory Management System)"} }],
 ]);
 
 if (import.meta.webpackHot) {
