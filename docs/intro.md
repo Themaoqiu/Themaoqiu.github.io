@@ -52,46 +52,50 @@ Hello, I'm Xingjian Wang!
 ## 😄 Research Interests
 
 My primary research interests lie at the intersection of:
--   **Large Language Models (LLMs)**
--   **Multimodal Learning**
+-   **Multimodal Large Language Models (MLLMs)**
 -   **Data-centric AI**
 -   Deep Learning
 
 
 ## 📢 News
 
+- [10/28/2025] A new preprint is released! Check [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473) for more details!
+
 - [05/21/2025] Our paper [*KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation*](https://arxiv.org/pdf/2505.14552) submitted to NeurIPS 2025 is now on arXiv! 
 
 - [05/29/2025] Our paper [*ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding* ](https://arxiv.org/abs/2505.23922) submitted to NeurIPS 2025 is now on arXiv! 
 
 
-## 📝 Research / Projects
+## 📝 Selected Research
 <p style="color: gray;text-align: left">(* denotes equal contribution)</p>
 
-- **KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation**  
+- [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473)
+Shijian Wang, Jiarui Jin, **Xingjian Wang**, Linxin Song, Runhao Fu, Hecheng Wang, Zongyuan Ge, Yuan Lu, Xuelian Cheng
+Submitted to ICLR 2026
+
+- [Expanding Scaling Boundary of Compositional Text-to-Image Generation via Composition Curriculum]()
+Shijian Wang, Runhao Fu, Siyi Zhao, Qingqin Zhan, **Xingjian Wang**, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen
+Submitted to CVPR 2026
+
+- [KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation](https://arxiv.org/abs/2505.14552)
   Jiajun Shi*, Jian Yang*, Jiaheng Liu*, Xingyuan Bu*, Jiangjie Chen, Junting Zhou, Kaijing Ma, Zhoufutu Wen, Bingli Wang, Yancheng He, Liang Song, Hualei Zhu, Shilong Li, **Xingjian Wang**, Wei Zhang, Ruibin Yuan, Yifan Yao, Wenjun Yang, Yunli Wang, Siyuan Fang, Siyu Yuan, Qianyu He, Xiangru Tang, Yingshui Tan, Wangchunshu Zhou, Zhaoxiang Zhang, Zhoujun Li, Wenhao Huang, Ge Zhang  
-  NeurIPS 2025 Submission | [arXiv](https://arxiv.org/abs/2505.14552)
+  Accepted by NeurIPS
 
-- **ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding**  
+- [ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding](https://arxiv.org/abs/2505.23922)
   David Ma*, Huaqing Yuan*, **Xingjian Wang\***, Qianbo Zang*, Tianci Liu, Xinyang He, Yanbin Wei, Jiawei Guo, Ni Jiahui, Zhenzhu Yang, Meng Cao, Shanghaoran Quan, Yizhi Li, Wangchunshu Zhou, Jiaheng Liu, Wenhao Huang, Ge Zhang, Shiwen Ni, Xiaojie Jin  
-  NeurIPS 2025 Submission | [arXiv](https://arxiv.org/abs/2505.23922)
+  ICLR 2026 Submission
 
-
-- NutriRAG:
-  - *A Simple Agent for Nutritional and Health Recommendations Based on TinyRAG* 🍎⚕️
-  -   [[Github](https://github.com/Themaoqiu/NRAG)]
 
 
 ## 🏅 Awards & Honors
 
--   null
+-   Shanghai University of Electric Power third-Class Scholarship 2024-2025
 
 
 ## 🛠️ Skills
 
-- **Programming:** Python(Pytorch, transformers), Java, SQL
-- **Tools:** Git, Overleaf, Linux
-- **Languages:** Chinese (Native), English (Fluent)
+- **Programming:** Python(Pytorch, transformers), Java, SQL, Nextjs, Typescript
+- **Tools:** Git, Latex, Linux
 
 ## 📫 Contact
 **Email**: themaoqiu@gmail.com <span style="color: #3eaf7c;">·</span> 2873133716@qq.com
