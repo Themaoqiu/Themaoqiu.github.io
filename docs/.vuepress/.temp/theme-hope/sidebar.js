@@ -1,1 +1,1 @@
-export const sidebarData = {"/research/":["","KORGym"],"/open/":["","NutriRAG"],"/article/":[]};
+export const sidebarData = {"/research/":["","KORGym"],"/open/":["","MIS","NutriRAG"],"/article/":[]};

@@ -61,6 +61,8 @@ My primary research interests lie at the intersection of:
 
 - [10/28/2025] A new preprint is released! Check [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://www.arxiv.org/abs/2510.23473) for more details!
 
+- [08/21/2025] A new preprint is released! Check [A Survey on Large Language Model Benchmarks](https://arxiv.org/abs/2508.15361) for more details!
+
 - [05/21/2025] Our paper [*KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation*](https://arxiv.org/pdf/2505.14552) submitted to NeurIPS 2025 is now on arXiv! 
 
 - [05/29/2025] Our paper [*ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding* ](https://arxiv.org/abs/2505.23922) submitted to NeurIPS 2025 is now on arXiv! 
@@ -76,6 +78,9 @@ Submitted to ICLR 2026
 - [Expanding Scaling Boundary of Compositional Text-to-Image Generation via Composition Curriculum]()
 Shijian Wang, Runhao Fu, Siyi Zhao, Qingqin Zhan, **Xingjian Wang**, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen
 Submitted to CVPR 2026
+
+- [A Survey on Large Language Model Benchmarks](https://arxiv.org/abs/2508.15361)
+Shiwen Ni, Guhong Chen, Shuaimin Li, Xuanang Chen, Siyi Li, Bingli Wang, Qiyao Wang, **Xingjian Wang**, Yifan Zhang, Liyang Fan, Chengming Li, Ruifeng Xu, Le Sun, Min Yang
 
 - [KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation](https://arxiv.org/abs/2505.14552)
   Jiajun Shi*, Jian Yang*, Jiaheng Liu*, Xingyuan Bu*, Jiangjie Chen, Junting Zhou, Kaijing Ma, Zhoufutu Wen, Bingli Wang, Yancheng He, Liang Song, Hualei Zhu, Shilong Li, **Xingjian Wang**, Wei Zhang, Ruibin Yuan, Yifan Yao, Wenjun Yang, Yunli Wang, Siyuan Fang, Siyu Yuan, Qianyu He, Xiangru Tang, Yingshui Tan, Wangchunshu Zhou, Zhaoxiang Zhang, Zhoujun Li, Wenhao Huang, Ge Zhang  

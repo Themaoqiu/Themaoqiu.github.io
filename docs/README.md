@@ -55,8 +55,7 @@ Hello, I'm Xingjian Wang 👋
 ### 😄 Research Interests
 
 My primary research interests lie at the intersection of:
--   **Large Language Models (LLMs)**
--   **Multimodal Learning**
+-   **Multimodal Large Language Models (MLLMs)**
 -   **Data-centric AI**
 -   Deep Learning
 

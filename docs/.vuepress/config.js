@@ -5,7 +5,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 export default defineUserConfig({
   // 站点配置
   lang: "zh-CN",
-  title: "Themaoqiu的个人页面",
+  title: "Xingjian Wang",
   description: "Themaoqiu的个人页面",
   base: "/", // 仓库是 themaoqiu.github.io
   bundler: viteBundler(),

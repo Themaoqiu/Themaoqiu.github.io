@@ -1,7 +1,7 @@
-import { hasGlobalComponent } from "D:/software/VScode/web/themaoqiu.github.io/node_modules/@vuepress/helper/lib/client/index.js";
-import { useScriptTag } from "D:/software/VScode/web/themaoqiu.github.io/node_modules/@vueuse/core/index.mjs";
+import { hasGlobalComponent } from "/Users/themaoqiu/CodeRepo/Nextjs/Xingjian-Wang.github.io/node_modules/@vuepress/helper/lib/client/index.js";
+import { useScriptTag } from "/Users/themaoqiu/CodeRepo/Nextjs/Xingjian-Wang.github.io/node_modules/@vueuse/core/index.mjs";
 import { h } from "vue";
-import { VPIcon } from "D:/software/VScode/web/themaoqiu.github.io/node_modules/@vuepress/plugin-icon/lib/client/index.js"
+import { VPIcon } from "/Users/themaoqiu/CodeRepo/Nextjs/Xingjian-Wang.github.io/node_modules/@vuepress/plugin-icon/lib/client/index.js"
 
 export default {
   enhance: ({ app }) => {
